@@ -163,7 +163,7 @@ El sistema fue diseñado pensando en:
 # 📂 Estructura del proyecto
 
 ```bash
-ApartmentRentalManagementSystem/
+PlataformaWebBusquedaDepartamentos/
 │
 ├── database/
 │
@@ -199,7 +199,7 @@ ApartmentRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-user/ApartmentRentalManagementSystem.git
+git clone https://github.com/isairey/PlataformaWebBusquedaDepartamentos.git
 ```
 
 ---
@@ -207,7 +207,7 @@ git clone https://github.com/your-user/ApartmentRentalManagementSystem.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd ApartmentRentalManagementSystem
+cd PlataformaWebBusquedaDepartamentos
 ```
 
 ---
